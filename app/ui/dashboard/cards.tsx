@@ -56,3 +56,11 @@ export function Card({
     </div>
   );
 }
+
+
+body {color: red;
+}
+h1 {
+  color: purple;
+font-size: 24px
+}
